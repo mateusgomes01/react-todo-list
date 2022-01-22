@@ -1,3 +1,8 @@
+# react-todo-list
+Basic react todo list
+
+View it [here](https://mateusgomes01.github.io/react-todo-list/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
